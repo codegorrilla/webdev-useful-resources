@@ -6,6 +6,10 @@
 
 - [markdown-cheat-sheet](https://www.freecodecamp.org/news/markdown-cheat-sheet/)
 
+### VS Code guide
+
+- [Set up Prettier and VS Code to Format Your Code](https://www.humankode.com/javascript/set-up-prettier-and-vs-code-to-format-your-code/)
+
 ### React and R3F resources
 
 - [Upmostly](https://upmostly.com/tutorials)
@@ -14,7 +18,13 @@
 
 - [Weal Yasmina Blog- R3F/ Three.js](https://waelyasmina.net/)
 
+- [Deploy Vite React App on Both GitHub Pages and Vercel](https://robiul.dev/deploy-vite-react-app-on-both-github-pages-and-vercel#heading-automate-deployment-using-github-actions)
+
 - [useEffect complete guide](https://blog.logrocket.com/useeffect-react-hook-complete-guide/)
+
+### DREI resources
+
+- [Accumulative shadows](https://drei.pmnd.rs/?path=/docs/staging-accumulativeshadows--docs)
 
 ### Next.js resources
 
