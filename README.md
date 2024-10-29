@@ -20,6 +20,8 @@
 
 - [Deploy Vite React App on Both GitHub Pages and Vercel](https://robiul.dev/deploy-vite-react-app-on-both-github-pages-and-vercel#heading-automate-deployment-using-github-actions)
 
+- [When should I use curly braces { } and parenthesis ( ) in React?](https://plainenglish.io/blog/curly-braces-versus-parenthesis-in-reactjs) 
+
 - [useEffect complete guide](https://blog.logrocket.com/useeffect-react-hook-complete-guide/)
 
 ### DREI resources
