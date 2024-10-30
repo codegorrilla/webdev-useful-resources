@@ -20,7 +20,7 @@
 
 - [Deploy Vite React App on Both GitHub Pages and Vercel](https://robiul.dev/deploy-vite-react-app-on-both-github-pages-and-vercel#heading-automate-deployment-using-github-actions)
 
-- [When should I use curly braces { } and parenthesis ( ) in React?](https://plainenglish.io/blog/curly-braces-versus-parenthesis-in-reactjs) 
+- [When should I use curly braces { } and parenthesis ( ) in React?](https://plainenglish.io/blog/curly-braces-versus-parenthesis-in-reactjs)
 
 - [useEffect complete guide](https://blog.logrocket.com/useeffect-react-hook-complete-guide/)
 
@@ -37,3 +37,11 @@
 ### CSS resources
 
 - [Using CSS variables like a pro](https://blog.logrocket.com/how-to-use-css-variables-like-a-pro/)
+- [animation-timeline](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timeline)
+- [animation-range](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-range)
+- [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+- [object-position](https://developer.mozilla.org/en-US/docs/Web/CSS/object-position)
+- [scroll-behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
+- [scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
+- [scroll-timeline](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline)
+- [touch-action](https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action)
