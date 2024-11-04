@@ -10,7 +10,7 @@
 
 - [Set up Prettier and VS Code to Format Your Code](https://www.humankode.com/javascript/set-up-prettier-and-vs-code-to-format-your-code/)
 
-### React and R3F resources
+### React resources
 
 - [Upmostly](https://upmostly.com/tutorials)
 
