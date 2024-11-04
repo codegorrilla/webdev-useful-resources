@@ -14,15 +14,23 @@
 
 - [Upmostly](https://upmostly.com/tutorials)
 
-- [Maxime Heckel Blog- R3F](https://blog.maximeheckel.com/)
-
-- [Weal Yasmina Blog- R3F/ Three.js](https://waelyasmina.net/)
-
 - [Deploy Vite React App on Both GitHub Pages and Vercel](https://robiul.dev/deploy-vite-react-app-on-both-github-pages-and-vercel#heading-automate-deployment-using-github-actions)
 
 - [When should I use curly braces { } and parenthesis ( ) in React?](https://plainenglish.io/blog/curly-braces-versus-parenthesis-in-reactjs)
 
 - [useEffect complete guide](https://blog.logrocket.com/useeffect-react-hook-complete-guide/)
+
+### R3F resources
+
+- [Maxime Heckel Blog- R3F](https://blog.maximeheckel.com/)
+
+- [Weal Yasmina Blog- R3F/ Three.js](https://waelyasmina.net/)
+
+- [GLSL and Shaders Tutorial for Beginners (WebGL / Threejs)](https://waelyasmina.net/articles/glsl-and-shaders-tutorial-for-beginners-webgl-threejs/)
+
+- [9 hands on GLSL examples or shader newbies](https://waelyasmina.net/articles/9-hands-on-glsl-examples-for-shader-newbies/#example_1)
+
+- [The study of shaders with React Three Fiber](https://blog.maximeheckel.com/posts/the-study-of-shaders-with-react-three-fiber/)
 
 ### DREI resources
 
