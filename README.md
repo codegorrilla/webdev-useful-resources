@@ -10,6 +10,10 @@
 
 - [Set up Prettier and VS Code to Format Your Code](https://www.humankode.com/javascript/set-up-prettier-and-vs-code-to-format-your-code/)
 
+### JS resources
+
+- [Custom video player](https://www.geeksforgeeks.org/custom-video-player-using-html-css-and-javascript/)
+
 ### React resources
 
 - [Upmostly](https://upmostly.com/tutorials)
