@@ -57,3 +57,7 @@
 - [scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
 - [scroll-timeline](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-timeline)
 - [touch-action](https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action)
+
+
+### Node/ NPM/ NVM
+- Before installing node version manager(nvm) in Windows 11, run this command in the powershell(run as administrator) - Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
